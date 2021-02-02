@@ -1,10 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb0ea1c3-1936-4f39-a797-d5cb9bf70429" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/asset/css/dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/css/light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img/YqDV2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/_partials/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/_partials/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/_partials/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/page2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/page3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1nsJDyvPquUOwznI4FwP7iSS3Ci" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\monst\PhpstormProjects\exemplestructure\page" />
+      <recent name="C:\Users\monst\PhpstormProjects\exemplestructure\asset\img" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb0ea1c3-1936-4f39-a797-d5cb9bf70429" name="Default Changelist" comment="" />
+      <created>1612172749470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612172749470</updated>
+      <workItem from="1612172750650" duration="16807000" />
+      <workItem from="1612193498148" duration="24000" />
+      <workItem from="1612193564455" duration="382000" />
+      <workItem from="1612253230330" duration="108000" />
+      <workItem from="1612253404269" duration="3000" />
+      <workItem from="1612253417460" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

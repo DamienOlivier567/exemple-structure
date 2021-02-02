@@ -1,0 +1,24 @@
+
+body{
+    width: 100%;
+    background-color: var(--bg-color);
+    font-size: 1.6rem;
+}
+
+.error{
+    display: block;
+    background-color: indianred;
+    width: 100%;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    margin: auto;
+    z-index: 100;
+}
+
+.succes{
+    background-color: mediumseagreen;
+}
